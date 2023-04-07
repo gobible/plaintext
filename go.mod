@@ -1,4 +1,4 @@
-module github.com/gobible/plain-text
+module github.com/gobible/plaintext
 
 go 1.19
 
